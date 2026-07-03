@@ -1,4 +1,4 @@
-# 
+# New DeepReview package. Download and install with version-control and one-click-install — fast, secure, and easy to use.
 
 
 
